@@ -16,6 +16,7 @@ public class BoardManager : MonoBehaviour {
        // UpdateSelection();
         DrawChessBoard();
         //kljhkjhkjhk
+        //laksalksjd
 
     }
 
